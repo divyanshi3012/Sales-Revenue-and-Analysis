@@ -13,7 +13,7 @@ Support better business and inventory decisions
 
 The analysis is performed using real-world business scenarios and focuses on answering key questions that a data analyst would typically solve.
 
-🎯 Objective of the Case Study
+# 🎯 Objective of the Case Study
 
 The main objective of this case study is to perform an end-to-end sales analysis using Excel, SQL, and Power BI, and transform raw sales data into meaningful business insights.
 
@@ -60,7 +60,7 @@ A Pivot Chart was generated to visually represent category-wise sales performanc
 
 The chart includes proper titles and alignment for clear interpretation.
 
-🛢 SQL-Based Business Insights
+# 🛢 SQL-Based Business Insights
 
 SQL queries were written to answer key business questions, including:
 
@@ -76,14 +76,13 @@ Category contributing the highest total revenue
 
 These queries demonstrate the use of joins, aggregations, sorting, and calculations.
 
-📈 Power BI – Dynamic Dashboard
+# 📈 Power BI – Dynamic Dashboard
 
 A fully interactive Power BI dashboard was created to visualize sales insights dynamically.
 
 Dashboard Features:
 
 Key KPIs:
-
 Total Transactions
 
 Total Discounts Applied
